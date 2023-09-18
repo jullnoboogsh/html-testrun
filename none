@@ -1,0 +1,29 @@
+<a href="1st.html"
+  ><div class="card">
+    <img src="Images/profile image.jpg" alt="first" />
+    <div class="card-content">
+      <h1 class="card-title">About Me</h1>
+      <p>Click <span>Here!</span> to know more about me</p>
+    </div>
+  </div>
+</a>
+
+<a href="2nd.html"
+  ><div class="card">
+    <img src="Images/night shadow.jpg" alt="first" />
+    <div class="card-content">
+      <h1 class="card-title">My Life!</h1>
+      <p>This contains What's with my<span> Life</span></p>
+    </div>
+  </div>
+</a>
+
+<a href="3rd.html"
+  ><div class="card">
+    <img src="Images/food.jpg" alt="first" />
+    <div class="card-content">
+      <h1 class="card-title">Food!</h1>
+      <p>This contains my favorite<span>Foods!</span></p>
+    </div>
+  </div>
+</a>
